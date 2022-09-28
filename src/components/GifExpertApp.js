@@ -4,7 +4,7 @@ import { GifGrid } from './GifGrid';
 
 const GifExpertApp = () => {
     
-    const [categories, setCategories] = useState(['tetas']);
+    const [categories, setCategories] = useState(['']);
 
     // const handleAdd = () => {
     //     setCategories([...categories, 'porno']);
